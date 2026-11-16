@@ -29,7 +29,7 @@
 
 ## 下载
 
-macOS 安装包已在 [v0.4.3 发布页](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.3) 提供，适用于 macOS 26 及以上版本。
+macOS 安装包已在 [发布页](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.3) 提供，适用于 macOS 26 及以上版本。
 
 | 系统    | 架构                   | 安装包 | 当前进度                                   |
 | ------- | ---------------------- | ------ | ------------------------------------------ |

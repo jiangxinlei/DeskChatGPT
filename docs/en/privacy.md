@@ -1,5 +1,11 @@
 # Data and privacy
 
+## What is sent to ChatGPT
+
+When ChatGPT calls a DeskChatGPT tool through the Tunnel, ChatGPT receives that tool's result. Depending on the tool and your local permissions, this can include file contents, directory information, terminal output, or a screenshot. When a tool returns an image, ChatGPT receives the image itself.
+
+Activity history and saved screenshots are stored in the local data directory described below. Opening the history, viewing thumbnails, and clearing local records do not send those records to ChatGPT.
+
 ## Local storage
 
 On macOS, local user data is generally stored at:

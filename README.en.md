@@ -29,7 +29,7 @@ Work with Mac files, run commands, and control your desktop from ChatGPT. You de
 
 ## Download
 
-The macOS installers are available in the [v0.4.3 release](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.3) and require macOS 26 or later.
+The macOS installers are available in the [release](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.3) and require macOS 26 or later.
 
 | Platform | Architecture          | Package | Progress                                                                 |
 | -------- | --------------------- | ------- | ------------------------------------------------------------------------ |
