@@ -9,18 +9,18 @@
 [![最新版本](https://img.shields.io/github/v/release/jiangxinlei/DeskChatGPT?style=flat-square&color=orange)](https://github.com/jiangxinlei/DeskChatGPT/releases/latest)
 [![总下载量](https://img.shields.io/github/downloads/jiangxinlei/DeskChatGPT/total?style=flat-square&logo=github&color=brightgreen)](https://github.com/jiangxinlei/DeskChatGPT/releases)
 
-[功能特点](#功能特点) · [下载](#下载) · [使用](#使用) · [交流与支持](#交流与支持)
+[功能特点](#功能特点) · [下载](#下载) · [使用](#使用) · [多台 Mac](#多台-mac) · [交流与支持](#交流与支持)
 
 </div>
 
 ## 功能特点
 
+- **支持 Chat 和 Dot**：在 ChatGPT 工作区配置 DeskChatGPT 后，可在 Chat 和 Dot 模式使用已授权的本机工具。
 - **文件与项目**：浏览目录、搜索文件、读取内容；创建、修改、移动、删除文件，支持批量改动、差异确认及适用的恢复操作。
 - **终端与 Git**：执行命令、构建和测试，查看任务输出与运行状态，按需停止任务。
 - **独立浏览器**：打开和阅读网页，点击、填写表单及截图。
 - **桌面控制**：查看和打开应用，截图、操作鼠标与键盘，需获得 macOS 系统授权。
 - **灵活的权限管理**：目录支持只读、逐项确认和直接读写；终端、浏览器与桌面能力分别授权。
-- **多台 Mac**：为不同电脑配置独立连接，在 ChatGPT 中选择要使用的 Mac；文件和授权不会自动同步。
 - **操作记录**：查看任务状态、文件变更和执行回执，方便核对结果和排查问题。
 
 ## 下载
@@ -38,9 +38,19 @@ macOS 安装包已在 [v0.4.3 发布页](https://github.com/jiangxinlei/DeskChat
 1. 在 OpenAI Platform 创建私有 Tunnel，并在 DeskChatGPT 中连接当前 Mac。
 2. 在 ChatGPT 工作区添加对应的自定义 MCP 工具。
 3. 在 DeskChatGPT「工作台」授权需要访问的目录，建议先选择**只读**。
-4. 在 ChatGPT 中选择 DeskChatGPT，开始读取文件或处理项目；需要修改时可选择逐项确认。
+4. 在 Chat 模式用 `@` 选择 DeskChatGPT，在 Dot 模式使用工作区已配置的 DeskChatGPT 工具。首次可试着读取一个已授权的文件。
 
 详细步骤见 [快速上手](docs/zh/start.md)。
+
+## 多台 Mac
+
+你可以在同一个 ChatGPT 工作区连接家里的 Mac 和公司的 Mac，并为每次任务选择目标电脑。
+
+1. 在每台 Mac 上分别安装 DeskChatGPT，各自连接一个独立的 Tunnel。
+2. 在同一个 ChatGPT 工作区添加两个自定义 MCP 工具，填入各自的 Tunnel ID，例如命名为 `DeskChatGPT-家里` 和 `DeskChatGPT-公司`。
+3. 要读取家里电脑的文件，就在 Chat 中选择 `@DeskChatGPT-家里`，或在 Dot 中使用同名工具。目标 Mac 需要在线，并已授权要访问的目录。
+
+目录授权和操作审批在对应的 Mac 上管理。文件、运行密钥和权限各自保存在对应电脑上。
 
 ## 使用文档
 
