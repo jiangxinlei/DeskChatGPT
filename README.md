@@ -13,6 +13,10 @@
 
 </div>
 
+| 工作台 | 操作记录 |
+| :---: | :---: |
+| [![工作台中的示例目录和文件改动](assets/screenshots/workbench.png)](assets/screenshots/workbench.png) | [![示例目录的操作记录和时间线](assets/screenshots/activity.png)](assets/screenshots/activity.png) |
+
 ## 功能特点
 
 - **支持 Chat 和 Dot**：在 ChatGPT 工作区配置 DeskChatGPT 后，可在 Chat 和 Dot 模式使用已授权的本机工具。

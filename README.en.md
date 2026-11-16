@@ -13,6 +13,10 @@ Work with Mac files, run commands, and control your desktop from ChatGPT. You de
 
 </div>
 
+| Workbench | Activity |
+| :---: | :---: |
+| [![Sample folder and file change in the Workbench](assets/screenshots/workbench.png)](assets/screenshots/workbench.png) | [![Activity timeline for the sample folder](assets/screenshots/activity.png)](assets/screenshots/activity.png) |
+
 ## Features
 
 - **Chat and Dot:** Set up DeskChatGPT in your ChatGPT workspace and use its authorized local tools in either mode.

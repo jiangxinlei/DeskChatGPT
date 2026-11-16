@@ -9,6 +9,9 @@
 !assets/logo.svg
 !assets/wechat.png
 !assets/sponsor.jpg
+!assets/screenshots/
+!assets/screenshots/workbench.png
+!assets/screenshots/activity.png
 !assets/ads/
 !assets/ads/*.png
 !assets/ads/*.jpg
