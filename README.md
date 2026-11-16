@@ -9,7 +9,7 @@
 [![最新版本](https://img.shields.io/github/v/release/jiangxinlei/DeskChatGPT?style=flat-square&color=orange)](https://github.com/jiangxinlei/DeskChatGPT/releases/latest)
 [![总下载量](https://img.shields.io/github/downloads/jiangxinlei/DeskChatGPT/total?style=flat-square&logo=github&color=brightgreen)](https://github.com/jiangxinlei/DeskChatGPT/releases)
 
-[功能特点](#功能特点) · [下载](#下载) · [使用](#使用) · [多台 Mac](#多台-mac) · [交流与支持](#交流与支持)
+[功能特点](#功能特点) · [下载](#下载) · [使用](#使用) · [多台 Mac](#多台-mac) · [使用许可](EULA.md#简体中文) · [交流与支持](#交流与支持)
 
 </div>
 

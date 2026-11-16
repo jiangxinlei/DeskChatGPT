@@ -9,7 +9,7 @@ Work with Mac files, run commands, and control your desktop from ChatGPT. You de
 [![Latest release](https://img.shields.io/github/v/release/jiangxinlei/DeskChatGPT?style=flat-square&color=orange)](https://github.com/jiangxinlei/DeskChatGPT/releases/latest)
 [![Total downloads](https://img.shields.io/github/downloads/jiangxinlei/DeskChatGPT/total?style=flat-square&logo=github&color=brightgreen)](https://github.com/jiangxinlei/DeskChatGPT/releases)
 
-[Features](#features) · [Download](#download) · [Usage](#usage) · [Multiple Macs](#multiple-macs) · [Support](#support)
+[Features](#features) · [Download](#download) · [Usage](#usage) · [Multiple Macs](#multiple-macs) · [EULA](EULA.md#english) · [Support](#support)
 
 </div>
 
