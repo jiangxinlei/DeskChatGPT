@@ -4,7 +4,10 @@
 
 # DeskChatGPT
 
-Connect ChatGPT to your Mac and get authorized local tasks done.
+Work with Mac files, run commands, and control your desktop from ChatGPT. You decide what it can access.
+
+[![Latest release](https://img.shields.io/github/v/release/jiangxinlei/DeskChatGPT?style=flat-square&color=orange)](https://github.com/jiangxinlei/DeskChatGPT/releases/latest)
+[![Total downloads](https://img.shields.io/github/downloads/jiangxinlei/DeskChatGPT/total?style=flat-square&logo=github&color=brightgreen)](https://github.com/jiangxinlei/DeskChatGPT/releases)
 
 [Features](#features) · [Download](#download) · [Usage](#usage) · [Support](#support)
 

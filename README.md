@@ -4,7 +4,10 @@
 
 # DeskChatGPT
 
-让 ChatGPT 连接你的 Mac，完成你授权的本机任务。
+在 ChatGPT 里读写 Mac 文件、运行命令和操作桌面，权限由你掌控。
+
+[![最新版本](https://img.shields.io/github/v/release/jiangxinlei/DeskChatGPT?style=flat-square&color=orange)](https://github.com/jiangxinlei/DeskChatGPT/releases/latest)
+[![总下载量](https://img.shields.io/github/downloads/jiangxinlei/DeskChatGPT/total?style=flat-square&logo=github&color=brightgreen)](https://github.com/jiangxinlei/DeskChatGPT/releases)
 
 [功能特点](#功能特点) · [下载](#下载) · [使用](#使用) · [交流与支持](#交流与支持)
 
