@@ -1,0 +1,36 @@
+# DeskChatGPT public documentation and approved release metadata only.
+# Do not commit private source code, local application data, logs, or installer binaries.
+*
+!.gitignore
+!README.md
+!README.en.md
+!ads.json
+!assets/
+!assets/logo.svg
+!assets/wechat.png
+!assets/sponsor.jpg
+!assets/ads/
+!assets/ads/*.png
+!assets/ads/*.jpg
+!assets/ads/*.jpeg
+!assets/ads/*.webp
+!CHANGELOG.md
+!SECURITY.md
+!THIRD-PARTY.md
+!docs/
+!docs/zh/
+!docs/en/
+!docs/zh/start.md
+!docs/zh/overview.md
+!docs/zh/safety.md
+!docs/zh/privacy.md
+!docs/zh/faq.md
+!docs/en/start.md
+!docs/en/overview.md
+!docs/en/safety.md
+!docs/en/privacy.md
+!docs/en/faq.md
+!checksums/
+!checksums/README.md
+# Only allow this after approved release assets are actually published and hashed.
+!checksums/SHA256SUMS.txt

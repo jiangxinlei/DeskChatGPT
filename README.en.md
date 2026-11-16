@@ -1,0 +1,54 @@
+<div align="center">
+
+<img src="assets/logo.svg" alt="DeskChatGPT" width="88">
+
+# DeskChatGPT
+
+Connect ChatGPT to your Mac and get authorized local tasks done.
+
+[Features](#features) · [Download](#download) · [Usage](#usage) · [Support](#support)
+
+</div>
+
+## Features
+
+- **Files and projects:** Browse folders, search and read files, create, edit, move, delete, and perform batch changes with review and supported recovery.
+- **Terminal and Git:** Run commands, builds, and tests; inspect task output and status; stop running tasks.
+- **Isolated browser:** Open and inspect websites, interact with pages, fill forms, and capture screenshots.
+- **Desktop control:** List and open apps, capture screens, and interact with windows using macOS permissions.
+- **Flexible permissions:** Choose read-only, per-change approval, or direct read/write for folders. Grant Terminal, browser, and desktop access separately.
+- **Multiple Macs:** Connect each Mac independently and choose which one to use in ChatGPT; files and permissions are not automatically shared.
+- **Activity history:** Review task states, file changes, and execution receipts.
+
+## Download
+
+Platform packages will be available from [GitHub Releases](https://github.com/jiangxinlei/DeskChatGPT/releases).
+
+| Platform | Architecture          | Package | Progress                                                                 |
+| -------- | --------------------- | ------- | ------------------------------------------------------------------------ |
+| macOS    | Apple Silicon (arm64) | DMG     | Package built and verified for integrity; device acceptance pending |
+| macOS    | Intel (x64)           | DMG     | Package built and verified for integrity; Intel-device acceptance pending |
+| Windows  | x64                   | EXE     | Native implementation and installer in development; not downloadable yet |
+
+## Usage
+
+1. Create a private Tunnel on OpenAI Platform and connect this Mac in DeskChatGPT.
+2. Add the corresponding custom MCP tool to your ChatGPT workspace.
+3. Grant the folders you need in Workbench. Start with **read-only** access.
+4. Select DeskChatGPT in ChatGPT and begin working with your files or projects. Use per-change approval for reviewed edits.
+
+See [Getting started](docs/en/start.md) for step-by-step instructions.
+
+## Documentation
+
+[Overview](docs/en/overview.md) · [Getting started](docs/en/start.md) · [Permissions and security](docs/en/safety.md) · [Data and privacy](docs/en/privacy.md) · [FAQ](docs/en/faq.md)
+
+> Terminal and Git run under your OS user. Tool results may return to ChatGPT. See [Security](SECURITY.md) for permission boundaries and limitations.
+
+## Support
+
+For bugs and feature requests, visit [GitHub Issues](https://github.com/jiangxinlei/DeskChatGPT/issues). If the project helps you, consider starring the repository.
+
+---
+
+<sub>DeskChatGPT is independently developed and is not affiliated with or endorsed by OpenAI.</sub>
