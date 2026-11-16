@@ -4,7 +4,7 @@
 
 # DeskChatGPT
 
-在 ChatGPT 里读写 Mac 文件、运行命令和操作桌面，权限由你掌控。
+DeskChatGPT 是 ChatGPT 的 Mac 本机执行工具。你在 ChatGPT 的 Chat 或 Dot 中对话，DeskChatGPT 在你选定的 Mac 上执行已授权的任务，包括读写文件、运行命令、操作网页和桌面。
 
 [![最新版本](https://img.shields.io/github/v/release/jiangxinlei/DeskChatGPT?style=flat-square&color=orange)](https://github.com/jiangxinlei/DeskChatGPT/releases/latest)
 [![总下载量](https://img.shields.io/github/downloads/jiangxinlei/DeskChatGPT/total?style=flat-square&logo=github&color=brightgreen)](https://github.com/jiangxinlei/DeskChatGPT/releases)

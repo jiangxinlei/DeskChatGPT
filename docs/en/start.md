@@ -1,6 +1,8 @@
 # Getting started
 
-Follow these steps for your first setup. Your conversations remain in ChatGPT; DeskChatGPT supplies locally authorized tools.
+All conversations take place in ChatGPT, where you send messages and read replies. When ChatGPT calls DeskChatGPT, it runs the task within the permissions set on your Mac and returns the tool result to ChatGPT.
+
+In DeskChatGPT, you grant folder access and approve file changes. Activity shows the operations performed on your Mac. You can view the full conversation in ChatGPT.
 
 ## 1. Install and open DeskChatGPT
 

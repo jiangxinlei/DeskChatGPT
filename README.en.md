@@ -4,7 +4,7 @@
 
 # DeskChatGPT
 
-Work with Mac files, run commands, and control your desktop from ChatGPT. You decide what it can access.
+DeskChatGPT is a tool for running local tasks on your Mac from ChatGPT. You converse in Chat or Dot, and DeskChatGPT carries out authorized tasks on the Mac you choose, including reading and writing files, running commands, and interacting with webpages and the desktop.
 
 [![Latest release](https://img.shields.io/github/v/release/jiangxinlei/DeskChatGPT?style=flat-square&color=orange)](https://github.com/jiangxinlei/DeskChatGPT/releases/latest)
 [![Total downloads](https://img.shields.io/github/downloads/jiangxinlei/DeskChatGPT/total?style=flat-square&logo=github&color=brightgreen)](https://github.com/jiangxinlei/DeskChatGPT/releases)

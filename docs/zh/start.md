@@ -1,6 +1,8 @@
 # 快速上手
 
-首次使用请按顺序完成。DeskChatGPT 负责本机工具，聊天仍在 ChatGPT 中进行。
+所有对话都在 ChatGPT 中进行。你在 ChatGPT 里发送消息、查看回复。ChatGPT 调用 DeskChatGPT 时，DeskChatGPT 按本机权限执行任务，并把工具结果返回给 ChatGPT。
+
+目录授权和文件改动审批在 DeskChatGPT 中管理。「操作记录」可以查看本机执行了哪些操作，完整对话在 ChatGPT 中查看。
 
 ## 1. 安装并启动
 
