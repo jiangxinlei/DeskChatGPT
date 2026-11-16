@@ -1,6 +1,6 @@
 # 更新日志
 
-## v0.4.3（准备发布）
+## [v0.4.3](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.3)
 
 ### 功能
 - 在 ChatGPT 对话中使用经过授权的本机文件、终端与 Git、独立浏览器和 macOS 桌面工具。
@@ -10,6 +10,7 @@
 
 ### 改进
 - 优化 Tunnel 连接监测、异常恢复和原生桌面授权体验。
-- 完善 macOS Apple Silicon 与 Intel x64 开发安装包及 SHA-256 校验。
+- 发布 macOS Apple Silicon 与 Intel x64 安装包及 SHA-256 校验文件。
+- 空广告位支持手形光标，点击打开 [Canofold](https://canofold.dev/)。
 
 安装包完整性检查不代表全部实机、权限和 ChatGPT 端到端验收已通过；实际发布内容以对应 GitHub Release 为准。

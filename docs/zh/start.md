@@ -4,7 +4,7 @@
 
 ## 1. 安装并启动
 
-在项目批准发行后，从 [GitHub Releases](https://github.com/jiangxinlei/DeskChatGPT/releases) 下载与你的 Mac 架构匹配的 DMG。将 DeskChatGPT.app 拖到「应用程序」并打开。当前尚未正式公开提供经过生产验收的安装包。macOS 开发候选没有 Apple Developer ID 签名或公证，可能触发 Gatekeeper 提示；请核对来源，不要关闭系统安全保护。
+从 [v0.4.3 发布页](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.3) 下载与你的 Mac 芯片匹配的 DMG。系统需要 macOS 26 或更新版本。将 DeskChatGPT.app 拖到「应用程序」并打开。安装包使用本地证书签名，未经 Apple 公证，首次打开时可能出现 macOS 安全提示。发布页列出了校验值和已完成的测试。
 
 ## 2. 创建 Tunnel 与受限运行密钥
 

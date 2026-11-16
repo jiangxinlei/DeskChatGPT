@@ -4,7 +4,7 @@ Follow these steps for your first setup. Your conversations remain in ChatGPT; D
 
 ## 1. Install and open DeskChatGPT
 
-Once a release is approved, download the DMG for your Mac architecture from [GitHub Releases](https://github.com/jiangxinlei/DeskChatGPT/releases), then move DeskChatGPT.app into Applications. A production-accepted public installer is not currently available. Development builds are not Apple Developer ID signed or notarized; review any macOS Gatekeeper prompts rather than disabling system security.
+Download the DMG for your Mac from the [v0.4.3 release](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.3). It requires macOS 26 or later. Drag DeskChatGPT.app into Applications and open it. The installers use a local signing certificate and lack Apple notarization, so macOS may show a security prompt. The release page includes checksums and test results.
 
 ## 2. Create a Tunnel and limited runtime key
 

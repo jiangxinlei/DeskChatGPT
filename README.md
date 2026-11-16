@@ -22,12 +22,12 @@
 
 ## 下载
 
-各平台安装包统一从 [GitHub Releases](https://github.com/jiangxinlei/DeskChatGPT/releases) 获取。
+macOS 安装包已在 [v0.4.3 发布页](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.3) 提供，适用于 macOS 26 及以上版本。
 
 | 系统    | 架构                   | 安装包 | 当前进度                                   |
 | ------- | ---------------------- | ------ | ------------------------------------------ |
-| macOS   | Apple Silicon（arm64） | DMG    | 安装包已构建并通过完整性校验，实机验收待完成 |
-| macOS   | Intel（x64）           | DMG    | 安装包已构建并通过完整性校验，Intel 实机验收待完成 |
+| macOS   | Apple Silicon（arm64） | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.3/DeskChatGPT-0.4.3-macos-arm64.dmg) | 已发布，已在 Apple 芯片 Mac 上验证启动和 Tunnel 连接 |
+| macOS   | Intel（x64）           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.3/DeskChatGPT-0.4.3-macos-x64.dmg) | 已发布，已通过 Rosetta 桌面回归，Intel 实机待验证 |
 | Windows | x64                    | EXE    | 原生适配与安装包开发中，暂不提供下载       |
 
 ## 使用
@@ -41,7 +41,7 @@
 
 ## 使用文档
 
-[产品介绍](docs/zh/overview.md) · [快速上手](docs/zh/start.md) · [授权与安全](docs/zh/safety.md) · [数据与隐私](docs/zh/privacy.md) · [常见问题](docs/zh/faq.md)
+[快速上手](docs/zh/start.md) · [授权与安全](docs/zh/safety.md) · [数据与隐私](docs/zh/privacy.md) · [常见问题](docs/zh/faq.md)
 
 > 终端与 Git 使用当前系统用户权限，工具结果可能返回 ChatGPT。详细权限与限制见 [安全说明](SECURITY.md)。
 

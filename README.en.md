@@ -22,12 +22,12 @@ Connect ChatGPT to your Mac and get authorized local tasks done.
 
 ## Download
 
-Platform packages will be available from [GitHub Releases](https://github.com/jiangxinlei/DeskChatGPT/releases).
+The macOS installers are available in the [v0.4.3 release](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.3) and require macOS 26 or later.
 
 | Platform | Architecture          | Package | Progress                                                                 |
 | -------- | --------------------- | ------- | ------------------------------------------------------------------------ |
-| macOS    | Apple Silicon (arm64) | DMG     | Package built and verified for integrity; device acceptance pending |
-| macOS    | Intel (x64)           | DMG     | Package built and verified for integrity; Intel-device acceptance pending |
+| macOS    | Apple Silicon (arm64) | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.3/DeskChatGPT-0.4.3-macos-arm64.dmg) | Published. Startup and Tunnel connection verified on an Apple silicon Mac. |
+| macOS    | Intel (x64)           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.3/DeskChatGPT-0.4.3-macos-x64.dmg) | Published. Desktop regression passed under Rosetta. Testing on an Intel Mac is pending. |
 | Windows  | x64                   | EXE     | Native implementation and installer in development; not downloadable yet |
 
 ## Usage
@@ -41,7 +41,7 @@ See [Getting started](docs/en/start.md) for step-by-step instructions.
 
 ## Documentation
 
-[Overview](docs/en/overview.md) · [Getting started](docs/en/start.md) · [Permissions and security](docs/en/safety.md) · [Data and privacy](docs/en/privacy.md) · [FAQ](docs/en/faq.md)
+[Getting started](docs/en/start.md) · [Permissions and security](docs/en/safety.md) · [Data and privacy](docs/en/privacy.md) · [FAQ](docs/en/faq.md)
 
 > Terminal and Git run under your OS user. Tool results may return to ChatGPT. See [Security](SECURITY.md) for permission boundaries and limitations.
 
