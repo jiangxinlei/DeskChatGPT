@@ -1,5 +1,18 @@
 # 更新日志
 
+## [v0.4.5](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.5)
+
+### 修复
+
+- 修复 Tunnel 客户端意外退出后，先前发起的连接检查可能取消自动重连的问题。
+- 连接检查会区分本机服务无响应和远端轮询停滞，避免仅因诊断数据暂时不可用就将连接标为中断。
+- 自动重连前再次检查 Tunnel，避免重启已经自行恢复的连接。
+
+### 安装包
+
+- 提供 macOS 26 及以上的 Apple Silicon 和 Intel DMG，以及 SHA-256 校验文件。两个安装包均使用本地证书签名，未经 Apple 公证。
+- Apple 芯片版通过本机桌面回归。Intel 版在 Rosetta 下完成同一组桌面操作约需 99 秒，超过测试默认的 60 秒时限，延长等待后全部断言通过。Intel 实机及 Mac 睡眠唤醒后连回原 Tunnel 仍待验证。
+
 ## [v0.4.4](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.4)
 
 ### 修复

@@ -29,12 +29,12 @@ DeskChatGPT is a tool for running local tasks on your Mac from ChatGPT. You conv
 
 ## Download
 
-The macOS installers are available in the [release](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.4) and require macOS 26 or later.
+The macOS installers are available in the [release](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.5) and require macOS 26 or later.
 
 | Platform | Architecture          | Package | Progress                                                                 |
 | -------- | --------------------- | ------- | ------------------------------------------------------------------------ |
-| macOS    | Apple Silicon (arm64) | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.4/DeskChatGPT-0.4.4-macos-arm64.dmg) | Published. Desktop regression passed on an Apple silicon Mac. |
-| macOS    | Intel (x64)           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.4/DeskChatGPT-0.4.4-macos-x64.dmg) | Published. Desktop regression passed under Rosetta. Testing on an Intel Mac is pending. |
+| macOS    | Apple Silicon (arm64) | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.5/DeskChatGPT-0.4.5-macos-arm64.dmg) | Published. Desktop regression passed on an Apple silicon Mac. |
+| macOS    | Intel (x64)           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.5/DeskChatGPT-0.4.5-macos-x64.dmg) | Desktop checks passed under Rosetta with an extended timeout. Testing on an Intel Mac is pending. |
 | Windows  | x64                   | EXE     | Native implementation and installer in development; not downloadable yet |
 
 ## Usage

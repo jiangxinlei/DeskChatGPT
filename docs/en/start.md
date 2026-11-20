@@ -6,7 +6,7 @@ In DeskChatGPT, you grant folder access and approve file changes. Activity shows
 
 ## 1. Install and open DeskChatGPT
 
-Download the DMG for your Mac from the [v0.4.3 release](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.3). It requires macOS 26 or later. Drag DeskChatGPT.app into Applications and open it. The installers use a local signing certificate and lack Apple notarization, so macOS may show a security prompt. The release page includes checksums and test results.
+Download the DMG for your Mac from the [latest release](https://github.com/jiangxinlei/DeskChatGPT/releases/latest). It requires macOS 26 or later. Drag DeskChatGPT.app into Applications and open it. The installers use a local signing certificate and lack Apple notarization, so macOS may show a security prompt. The release page includes checksums and test results.
 
 ## 2. Create a Tunnel and limited runtime key
 
