@@ -1,5 +1,16 @@
 # 更新日志
 
+## [v0.4.6](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.6)
+
+### 更新
+
+- 「连接设置 → 终端与 Git → 执行模式」新增原生执行，供 SwiftPM、Xcode 等需要自行启用沙箱的工具使用。默认使用受保护执行，原生执行需要在 Mac 上确认身份，仅对当前连接和服务会话生效。
+- 终端任务详情可显示活跃任务及当前可见子进程的内存占用。关闭任务所属上下文或撤销目录授权时，DeskChatGPT 会停止相关任务，并报告清理未确认的情况。
+
+### 安装包
+
+- 提供 macOS 26 及以上的 Apple Silicon 和 Intel DMG、SHA-256 校验文件、中英文 EULA 和第三方组件许可证。两份安装包均使用本地证书签名，未经 Apple 公证。
+
 ## [v0.4.5](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.5)
 
 ### 修复

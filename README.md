@@ -21,7 +21,7 @@ DeskChatGPT 是 ChatGPT 的 Mac 本机执行工具。你在 ChatGPT 的 Chat 或
 
 - **支持 Chat 和 Dot**：在 ChatGPT 工作区配置 DeskChatGPT 后，可在 Chat 和 Dot 模式使用已授权的本机工具。
 - **文件与项目**：浏览目录、搜索文件、读取内容；创建、修改、移动、删除文件，支持批量改动、差异确认及适用的恢复操作。
-- **终端与 Git**：执行命令、构建和测试，查看任务输出与运行状态，按需停止任务。
+- **终端与 Git**：执行命令、构建和测试，查看输出与状态，按需停止任务。默认使用受保护执行，需要运行 SwiftPM、Xcode 等工具时，可在 Mac 上确认启用原生执行。
 - **独立浏览器**：打开和阅读网页，点击、填写表单及截图。
 - **桌面控制**：查看和打开应用，截图、操作鼠标与键盘，需获得 macOS 系统授权。
 - **灵活的权限管理**：目录支持只读、逐项确认和直接读写；终端、浏览器与桌面能力分别授权。
@@ -29,12 +29,12 @@ DeskChatGPT 是 ChatGPT 的 Mac 本机执行工具。你在 ChatGPT 的 Chat 或
 
 ## 下载
 
-macOS 安装包已在 [发布页](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.5) 提供，适用于 macOS 26 及以上版本。
+macOS 安装包适用于 macOS 26 及以上版本。[v0.4.6 发布说明和 SHA-256 校验文件](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.6)
 
 | 系统    | 架构                   | 安装包 | 当前进度                                   |
 | ------- | ---------------------- | ------ | ------------------------------------------ |
-| macOS   | Apple Silicon（arm64） | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.5/DeskChatGPT-0.4.5-macos-arm64.dmg) | 已发布，已通过 Apple 芯片 Mac 桌面回归 |
-| macOS   | Intel（x64）           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.5/DeskChatGPT-0.4.5-macos-x64.dmg) | 已在 Rosetta 下完成桌面测试（延长等待），Intel 实机待验证 |
+| macOS   | Apple Silicon（arm64） | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.6/DeskChatGPT-0.4.6-macos-arm64.dmg) | 已发布 |
+| macOS   | Intel（x64）           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.6/DeskChatGPT-0.4.6-macos-x64.dmg) | 已发布，Intel 实机待验证 |
 | Windows | x64                    | EXE    | 原生适配与安装包开发中，暂不提供下载       |
 
 ## 使用

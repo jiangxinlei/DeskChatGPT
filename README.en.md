@@ -21,7 +21,7 @@ DeskChatGPT is a tool for running local tasks on your Mac from ChatGPT. You conv
 
 - **Chat and Dot:** Set up DeskChatGPT in your ChatGPT workspace and use its authorized local tools in either mode.
 - **Files and projects:** Browse folders, search and read files, create, edit, move, delete, and perform batch changes with review and supported recovery.
-- **Terminal and Git:** Run commands, builds, and tests; inspect task output and status; stop running tasks.
+- **Terminal and Git:** Run commands, builds, and tests, inspect task output and status, and stop running tasks. Protected execution is the default. Native execution for tools such as SwiftPM and Xcode requires confirmation on your Mac.
 - **Isolated browser:** Open and inspect websites, interact with pages, fill forms, and capture screenshots.
 - **Desktop control:** List and open apps, capture screens, and interact with windows using macOS permissions.
 - **Flexible permissions:** Choose read-only, per-change approval, or direct read/write for folders. Grant Terminal, browser, and desktop access separately.
@@ -29,12 +29,12 @@ DeskChatGPT is a tool for running local tasks on your Mac from ChatGPT. You conv
 
 ## Download
 
-The macOS installers are available in the [release](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.5) and require macOS 26 or later.
+The macOS installers require macOS 26 or later. [v0.4.6 release notes and SHA-256 checksums](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.6)
 
 | Platform | Architecture          | Package | Progress                                                                 |
 | -------- | --------------------- | ------- | ------------------------------------------------------------------------ |
-| macOS    | Apple Silicon (arm64) | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.5/DeskChatGPT-0.4.5-macos-arm64.dmg) | Published. Desktop regression passed on an Apple silicon Mac. |
-| macOS    | Intel (x64)           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.5/DeskChatGPT-0.4.5-macos-x64.dmg) | Desktop checks passed under Rosetta with an extended timeout. Testing on an Intel Mac is pending. |
+| macOS    | Apple Silicon (arm64) | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.6/DeskChatGPT-0.4.6-macos-arm64.dmg) | Published |
+| macOS    | Intel (x64)           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.6/DeskChatGPT-0.4.6-macos-x64.dmg) | Published. Testing on an Intel Mac is pending. |
 | Windows  | x64                   | EXE     | Native implementation and installer in development; not downloadable yet |
 
 ## Usage
