@@ -1,5 +1,16 @@
 # 更新日志
 
+## [v0.4.7](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.7)
+
+### 修复
+
+- 修复历史任务清理未确认或服务中断的记录阻塞原生执行模式切换的问题。DeskChatGPT 保留历史记录，并在 Mac 上提示风险，确认后可继续切换。
+- 本次切换涉及的任务清理未确认时，仍阻止切换。确认期间如果历史清理状态发生变化，需要重新确认。
+
+### 安装包
+
+- 提供 macOS 26 及以上的 Apple Silicon 和 Intel DMG、SHA-256 校验文件、中英文 EULA 和第三方组件许可证。两份安装包均使用本地证书签名，未经 Apple 公证。
+
 ## [v0.4.6](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.6)
 
 ### 更新

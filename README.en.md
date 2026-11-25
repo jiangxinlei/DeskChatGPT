@@ -29,12 +29,12 @@ DeskChatGPT is a tool for running local tasks on your Mac from ChatGPT. You conv
 
 ## Download
 
-The macOS installers require macOS 26 or later. [v0.4.6 release notes and SHA-256 checksums](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.6)
+The macOS installers require macOS 26 or later. [v0.4.7 release notes and SHA-256 checksums](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.7)
 
 | Platform | Architecture          | Package | Progress                                                                 |
 | -------- | --------------------- | ------- | ------------------------------------------------------------------------ |
-| macOS    | Apple Silicon (arm64) | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.6/DeskChatGPT-0.4.6-macos-arm64.dmg) | Published |
-| macOS    | Intel (x64)           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.6/DeskChatGPT-0.4.6-macos-x64.dmg) | Published. Testing on an Intel Mac is pending. |
+| macOS    | Apple Silicon (arm64) | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.7/DeskChatGPT-0.4.7-macos-arm64.dmg) | Published |
+| macOS    | Intel (x64)           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.7/DeskChatGPT-0.4.7-macos-x64.dmg) | Published. Testing on an Intel Mac is pending. |
 | Windows  | x64                   | EXE     | Native implementation and installer in development; not downloadable yet |
 
 ## Usage

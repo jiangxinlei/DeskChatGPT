@@ -29,12 +29,12 @@ DeskChatGPT 是 ChatGPT 的 Mac 本机执行工具。你在 ChatGPT 的 Chat 或
 
 ## 下载
 
-macOS 安装包适用于 macOS 26 及以上版本。[v0.4.6 发布说明和 SHA-256 校验文件](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.6)
+macOS 安装包适用于 macOS 26 及以上版本。[v0.4.7 发布说明和 SHA-256 校验文件](https://github.com/jiangxinlei/DeskChatGPT/releases/tag/v0.4.7)
 
 | 系统    | 架构                   | 安装包 | 当前进度                                   |
 | ------- | ---------------------- | ------ | ------------------------------------------ |
-| macOS   | Apple Silicon（arm64） | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.6/DeskChatGPT-0.4.6-macos-arm64.dmg) | 已发布 |
-| macOS   | Intel（x64）           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.6/DeskChatGPT-0.4.6-macos-x64.dmg) | 已发布，Intel 实机待验证 |
+| macOS   | Apple Silicon（arm64） | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.7/DeskChatGPT-0.4.7-macos-arm64.dmg) | 已发布 |
+| macOS   | Intel（x64）           | [DMG](https://github.com/jiangxinlei/DeskChatGPT/releases/download/v0.4.7/DeskChatGPT-0.4.7-macos-x64.dmg) | 已发布，Intel 实机待验证 |
 | Windows | x64                    | EXE    | 原生适配与安装包开发中，暂不提供下载       |
 
 ## 使用

@@ -35,6 +35,8 @@ On your Mac, open **Connection Settings → Terminal and Git → Execution mode*
 
 DeskChatGPT stops terminal tasks for the selected connection before switching modes. Turning off terminal access or restarting the local service restores protected execution.
 
+Starting in v0.4.7, if the selected connection has past tasks with unconfirmed cleanup or interrupted service, your Mac shows the risk before you confirm native execution. DeskChatGPT keeps those records. Unconfirmed cleanup during the current switch blocks the switch. If the cleanup status changes during confirmation, you must confirm again.
+
 ## Known security limitations
 
 The native file guard rejects several unsafe links and path escapes, but **a non-cooperating external writer** can still race a final baseline check and file update within a shared folder. Do not advertise untrusted shared folders as securely isolated. Keep backups and review the repository's [Security policy](https://github.com/jiangxinlei/DeskChatGPT/blob/main/SECURITY.md).
